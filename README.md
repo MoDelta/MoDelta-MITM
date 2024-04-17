@@ -7,3 +7,5 @@ Use of : python3 arp_poison.py -t [] -g []
 You write the target IP address where it says "-t" or "--target"
 
 You write the modem IP address where it says "-g" or "--gateway"
+
+*This software was written by learning from the lessons of instructor Atıl Samancıoğlu.
